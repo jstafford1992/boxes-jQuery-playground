@@ -41,3 +41,7 @@
 .boxType3 {
   background: blue;
 }
+
+.backgroundImage {
+  background-image: url(http://placekitten.com/g/200/300);
+}
